@@ -17,6 +17,8 @@
 
 Speedup = Time(CPU)/Time(GPU).
 
+Вычисления выполнялись в Google Colab.
+
 | Vector Size | CPU Time   | GPU Time   | Speedup  | Vector Sum       |
 |-------------|------------|------------|----------|------------------|
 | 1000        | 0.000013   | 0.000252   | 0.052991 | 48381            |
