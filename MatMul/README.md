@@ -32,7 +32,7 @@
 
 Speedup = Time(CPU)/Time(GPU). 
 
-
+Вычисления выполнялись в Google Colab.
 
 
 | Matrix Size   |     CPU      |     GPU      |   Speedup   |
